@@ -1,3 +1,8 @@
-# natsteven.github.io
+# Information 
 
-this is supposed to be my personal website
+## Education
+- RiverStone International School
+- Cooper Union for the Advancement of Science and Art
+- Boise State University
+
+## Work Experience
